@@ -10,3 +10,7 @@ agent/
 .gemini/
 .clinerules/
 tsconfig.tsbuildinfo
+
+.vscode/
+
+.vscode/

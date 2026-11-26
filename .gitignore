@@ -1,0 +1,12 @@
+node_modules/
+.next/
+dist/
+*.local
+.DS_Store
+.env
+.env.*
+.agent/
+agent/
+.gemini/
+.clinerules/
+tsconfig.tsbuildinfo
